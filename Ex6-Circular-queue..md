@@ -1,5 +1,4 @@
 # Ex 2(a) Dequeue Elements from Circular Queue
-## DATE:27/4/2025
 ## AIM:
 To write a C program to delete three elements from the filled circular queue.
 
@@ -18,8 +17,8 @@ operation ((front + 1) % SIZE).
 ```
 /*
 Program to delete three elements from the filled circular queue
-Developed by: Ragavan E
-RegisterNumber: 212223040160
+Developed by: KAMALESH R
+RegisterNumber: 212223230094
 */
 /*#include <stdio.h> 
 #define SIZE 5 
